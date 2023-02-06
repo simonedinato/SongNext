@@ -10,10 +10,10 @@
 	 */
 
 	error_reporting(0);
-	$server = "ftp.simonedinato.altervista.org"; 
-	$user = "simonedinato"; 
-	$psw = "5HDas56rDC27"; 
-	$dbname="my_simonedinato";
+	$server = "**"; 
+	$user = "**"; 
+	$psw = "**"; 
+	$dbname="**";
 
 	/**
 	 * Connect to the database server with the specified credentials.
