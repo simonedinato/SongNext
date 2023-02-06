@@ -1,5 +1,10 @@
 # SongNext
 SongNext is a music-focused social network that provides discovery, customization, and connectivity for music enthusiasts.
+
+## Getting started 
+
+config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)
+
 ## PROJECT STRUCTURE
 ````bash
 SongNext
