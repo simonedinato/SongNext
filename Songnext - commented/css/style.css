@@ -1,0 +1,287 @@
+body{
+	font-family: 'Zen Dots', cursive ;
+	margin:0;
+	border:0;
+	background-color:#14223a !important;
+}
+#barra-1{
+	width:100%;
+	background-color:white;
+	text-align:center;
+	color:#14223a;
+	height:60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#barra-2{
+	width:960px;
+	margin:0 auto;
+	background-color:white;
+	text-align:center;
+	color:#14223a;
+	height:40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-top:3px solid #14223a;
+}
+#barra-3{
+	width:960px;
+	margin:0 auto;
+	background-color:white;
+	text-align:center;
+	color:#14223a;
+	height:40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-top:3px solid #14223a;
+}
+h1{
+	margin-top:0;
+	margin-bottom:0;
+	width:50%;
+}
+a{
+	text-decoration:none;
+	color:#14223a;
+}
+#box{
+	width:960px;
+	margin:0 auto;
+	border-top:2px solid #14223a;
+	color:white;
+}
+#img-1{
+	width:100%;
+	height: 350px;
+	background-color:#14223a;
+}
+
+.menu{
+	float:right;
+	display:inline-block;
+	position:absolute;
+	top:80px;
+	right: 30px;
+	background-color:white;
+	border-radius: 10px;
+}
+.submit{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin:0 auto;
+}
+.button{
+	width:110px;
+	font-weight:bold;
+	background-color:#a8b773;
+	color:white;
+	border:1px solid #b8c97d;
+	height:35px;
+	cursor:pointer;
+	font-size:17px;
+	border-radius: 7px;
+	transition:background-color .5s;
+}
+.button1{
+	width:70px;
+	text-align:center;
+	font-weight:bold;
+	background-color:#a8b773;
+	color:white;
+	border:1px solid #b8c97d;
+	height:25px;
+	cursor:pointer;
+	font-size:17px;
+	border-radius: 7px;
+	transition:background-color .5s;
+}
+.button:hover{
+	background-color:#5d6640;
+	border:1px solid #5d6640;
+	color:white;
+}
+.button1:hover{
+	background-color:#5d6640;
+	border:1px solid #5d6640;
+	color:white;
+}
+.registrazione{
+	width:200px;
+}
+.reg{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.inv{
+	margin-right:10px;
+}
+.label1{
+	width:150px;
+	display:inline-flex;
+}
+.label2{
+	color:white;
+}
+.form1{
+	color:white;
+}
+.input1{
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-bottom:2px solid white;
+	background-color:#14223a;
+	color:white;
+	width:200px;
+}
+::-webkit-calendar-picker-indicator {
+	filter: invert(1);
+	}
+.menu-d{
+	width:150px;
+	float:right;
+	display:inline-block;
+	position:absolute;
+	top:105px;
+	right: 30px;
+	background-color:white;
+	padding:5px;
+	border-radius: 10px;
+}
+.menu-s{
+	width:150px;
+	float:left;
+	display:inline-block;
+	position:absolute;
+	top:105px;
+	left: 30px;
+	background-color:white;
+	padding:5px;
+	border-radius: 10px;
+}
+.menu-d h4{
+	text-align: center;
+	margin:10px 5px;
+}
+.bordo{
+	border-bottom:1px solid lightgrey;
+}
+h5{
+	text-align: center;
+	margin:0;
+	margin-top:10px;
+}
+.icona{
+	float:left;
+	margin-top:-2.5px;
+	position:absolute;
+}
+.caricamento {
+  display: none;
+  position: fixed;
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.4); 
+}
+.contenuto-c {
+  background-color: #2a446d;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 7px solid white;
+  width: 80%; 
+}
+
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 0 7px;
+}
+
+.close:hover,
+.close:focus {
+  color: #e56b6b;
+  text-decoration: none;
+  cursor: pointer;
+}
+.descrizione{
+	width:80%;
+	height:150px;
+	border:1px solid white;
+	background-color: #2a446d;
+	color:white;
+}
+.nome{
+	width:40%;
+	height: 20px;
+	border-bottom:3px solid white;
+	border-top:none;
+	border-right:none;
+	border-left:none;
+	background-color: #2a446d;
+	color:white;
+}
+.menu-c{
+	width:960px;
+	margin:0 auto;
+}
+#element{
+    border-bottom:2px solid white;
+}
+.elimina{
+	transition:background-color .5s;	
+}
+.elimina:hover{
+	background-color:#db0404;
+	color:white;
+	border-radius:10px;
+}.canzoni{
+	transition:background-color .5s;
+}
+.canzoni:hover{
+	background-color:#ed9e00;
+	color:white;
+	border-radius:10px;
+}.dati{
+	transition:background-color .5s;
+}
+.dati:hover{
+	background-color:#32c900;
+	color:white;
+	border-radius:10px;
+}.contatti{
+	transition:background-color .5s;
+}
+.contatti:hover{
+	background-color:#6c02dd;
+	color:white;
+	border-radius:10px;
+}
+ table{
+	width:100%;
+	margin:0 auto;
+}
+th{
+	width:23%;
+}
+td{
+	text-align:center;
+}
+.nlike{
+	margin-top:2.5px;
+	margin-left:7px;
+	width:60px;
+	height:30px;
+	float:right;
+}
