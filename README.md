@@ -1,5 +1,5 @@
 # SongNext
-https://github.com/simonedinato/SongNext/blob/7c96883cb23eb3b818788c6f1654d7b3ae92eac2/Logo.png
+(https://github.com/simonedinato/SongNext/blob/7c96883cb23eb3b818788c6f1654d7b3ae92eac2/Logo.png)
 SongNext is a music-focused social network that provides discovery, customization, and connectivity for music enthusiasts.
 
 ## Getting started 
