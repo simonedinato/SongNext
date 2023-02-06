@@ -1,9 +1,9 @@
 <?php
 	error_reporting(0);
-	$server = "localhost"; 
-	$user = "root"; 
-	$psw = ""; 
-	$dbname="songnext";
+	$server = "**"; 
+	$user = "**"; 
+	$psw = "**"; 
+	$dbname="**";
 
 	$conn=mysqli_connect($server, $user, $psw, $dbname); 
 	if(!$conn){
