@@ -6,9 +6,9 @@ SongNext is a music-focused social network that provides discovery, customizatio
 config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)
 
 ## DB STRUCTURE
-<center>
+
  <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Screenshot%202023-02-07%20alle%2012.42.49.png" width="200px" align="center"></div>
- </center>
+
 <br>
 
 
