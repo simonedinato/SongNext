@@ -7,7 +7,7 @@ config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6
 
 ## DB STRUCTURE
 <center>
- <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Screenshot%202023-02-07%20alle%2012.42.49.png" width="200px" align="left"></div>
+ <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Screenshot%202023-02-07%20alle%2012.42.49.png" width="200px" align="center"></div>
  </center>
 <br>
 
