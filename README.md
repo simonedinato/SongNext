@@ -10,7 +10,7 @@ config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6
 <div align="center">
  <table>
    <tr>
-<td><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Screenshot%202023-02-07%20alle%2012.42.49.png" width="500" height="350" /><br>
+<td><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/ErDiagram.png" width="500" height="350" /><br>
   <em>ER Diagram</em></td> 
    </tr>
   </table>
