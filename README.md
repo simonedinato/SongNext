@@ -78,5 +78,5 @@ You can find the complete documentation [here](https://simonedinato.github.io/So
 
 ## Usage
 
-To use SongNext, simply [sign up](http://simonedinato.altervista.org/Songnext/index.php) for an account and start exploring the world of music.
+To use SongNext, simply [sign up](https://simonedinato.altervista.org/Songnext/index.php) for an account and start exploring the world of music.
 
