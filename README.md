@@ -1,4 +1,4 @@
-# <div class><img src="" width="50px" align="left"></div> SongNext
+# <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Logo.png" width="50px" align="left"></div> SongNext
 SongNext is a music-focused social network that provides discovery, customization, and connectivity for music enthusiasts.
 
 ## Getting started 
