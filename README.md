@@ -1,9 +1,4 @@
 # <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Logo.png" width="200px" align="left"></div><br><br>
-SongNext is not only a social network for music enthusiasts, but also a platform for emerging musicians to showcase their talent and reach a wider audience. SongNext provides a platform for new musicians to publish and promote their songs, allowing them to be seen by music companies and industry professionals. With a growing community of music lovers, SongNext offers a unique opportunity for new artists to get their music in front of people who appreciate and support new and original content. By publishing their work on SongNext, musicians can gain exposure, build their brand, and connect with music industry professionals who are looking for new talent.
-
-# SongNext
-
-A music-focused social network for musicians and music lovers.
 
 ## Features
 
@@ -23,8 +18,6 @@ Join the growing community of music lovers and connect with like-minded people w
 
 ## Getting started 
 
-
-config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)
 
 ## DB STRUCTURE
 
@@ -82,6 +75,8 @@ To get started with SongNext, follow these steps:
 4. Set up the database: `php bin/console doctrine:database:create`
 5. Run the migrations: `php bin/console doctrine:migrations:migrate`
 6. Start the development server: `php bin/console server:run`
+
+Remember to config the file [here]!(https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)
 
 ## DOCUMENTATION
 You can find the complete documentation [here](https://simonedinato.github.io/Songnext-documentation/)
