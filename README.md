@@ -1,5 +1,11 @@
 # <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Logo.png" width="200px" align="left"></div><br><br>
 
+## Description
+
+SongNext is a platform for music lovers and emerging musicians. It is developed using PHP and has a relational database. It offers features for discovering new music, personalizing music preferences, and connecting with other music enthusiasts. Musicians can use SongNext to showcase and promote their work, gain exposure, and connect with industry professionals. The customization options allow users to create their own playlists, follow favorite artists, and receive personalized recommendations based on their listening habits.
+
+Join the growing community of music lovers and connect with like-minded people who share the same music taste. 
+
 ## Features
 
 - Discover new music
@@ -7,12 +13,6 @@
 - Connect with other music enthusiasts
 - Publish and promote songs
 - Gain exposure and connect with industry professionals
-
-## Description
-
-SongNext is a platform for music lovers and emerging musicians. It is developed using PHP and has a relational database. It offers features for discovering new music, personalizing music preferences, and connecting with other music enthusiasts. Musicians can use SongNext to showcase and promote their work, gain exposure, and connect with industry professionals. The customization options allow users to create their own playlists, follow favorite artists, and receive personalized recommendations based on their listening habits.
-
-Join the growing community of music lovers and connect with like-minded people who share the same music taste. 
 
 ## DB STRUCTURE
 
