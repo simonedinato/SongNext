@@ -1,5 +1,5 @@
 # <div class><img src="https://raw.githubusercontent.com/simonedinato/SongNext/main/Logo.png" width="200px" align="left"></div><br><br>
-SongNext is a music-focused social network that provides discovery, customization, and connectivity for music enthusiasts.
+SongNext is not only a social network for music enthusiasts, but also a platform for emerging musicians to showcase their talent and reach a wider audience. SongNext provides a platform for new musicians to publish and promote their songs, allowing them to be seen by music companies and industry professionals. With a growing community of music lovers, SongNext offers a unique opportunity for new artists to get their music in front of people who appreciate and support new and original content. By publishing their work on SongNext, musicians can gain exposure, build their brand, and connect with music industry professionals who are looking for new talent.
 
 ## Getting started 
 
