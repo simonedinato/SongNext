@@ -14,11 +14,6 @@ SongNext is a platform for music lovers and emerging musicians. It is developed 
 
 Join the growing community of music lovers and connect with like-minded people who share the same music taste. 
 
-
-
-## Getting started 
-
-
 ## DB STRUCTURE
 
 <div align="center">
@@ -76,7 +71,7 @@ To get started with SongNext, follow these steps:
 5. Run the migrations: `php bin/console doctrine:migrations:migrate`
 6. Start the development server: `php bin/console server:run`
 
-Remember to config the file [here]!(https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)
+Remember to config the file [here](https://github.com/simonedinato/SongNext/blob/59bd03928e6e1ec063dc303ae12c37ae1076e233/Songnext/connessione.php)!
 
 ## DOCUMENTATION
 You can find the complete documentation [here](https://simonedinato.github.io/Songnext-documentation/)
