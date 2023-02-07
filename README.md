@@ -37,3 +37,6 @@ SongNext
         ├── yt1s.com - MarMar Oso  Ruthless Lyrics  nice guys always finish last should know that.mp3
         └── yt1s.com - Topic  Breaking Me Lyrics ft A7S.mp3
 ````
+
+## DOCUMENTATION
+You can find the complete documentation [here](https://simonedinato.github.io/Songnext-documentation/)
